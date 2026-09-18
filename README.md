@@ -1,4 +1,4 @@
-# PC Booking App — Generatore QR Code per Prenotazioni (Flutter)
+# PC Booking App — Generatore QR Code per Prenotazioni (Flutter) {writed PRE-AI}
 
 Applicazione mobile Flutter per la prenotazione di postazioni PC, con generazione di un QR Code associato a ciascuna prenotazione tramite chiamata a un backend REST.
 
